@@ -33,7 +33,7 @@ header {
   flex-direction: row-reverse;
   justify-content: center;
   width: 800px;
-  border: 1px solid black
+  margin-left: 560px
 }
 .logo {
   display: flex;
