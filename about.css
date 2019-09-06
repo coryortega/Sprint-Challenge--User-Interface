@@ -32,6 +32,7 @@ header {
   display: flex;
   flex-direction: row-reverse;
   justify-content: space-between;
+  margin-bottom: 40px
 }
 header nav {
     display: flex;
@@ -57,7 +58,7 @@ padding: 20px
   display: flex;
   margin-top: 25px;
   margin-left: px;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
   width: 100%
 }
 .container {
@@ -104,6 +105,9 @@ header .logo {
   margin-top: 25px;
   display: flex;
   justify-content: flex-end;
+}
+h1 {
+    margin-left: 19px
 }
 .main-content .top-content {
   display: flex;
@@ -152,6 +156,7 @@ footer nav {
     align-items: center;
     padding: 20px 2%;
     font-size: 14px;
+    margin-top: 25px
 }
 
 footer nav a {
